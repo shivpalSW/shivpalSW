@@ -1,3 +1,6 @@
+![](assets/Bottom_up.svg)
+
+
 - 👋 Hi, I’m @shivpal
 - 👀 I’m Working as a | Data Scientist | Machine Learning Engineer |
 - 🌱 I’m Working on Data Science | Machine Learning | Natural Lannguage Processing | Deep Learning AI fields.
