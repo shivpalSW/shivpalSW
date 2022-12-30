@@ -1,6 +1,6 @@
 ![](assets/Bottom_up.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋+I'm+Shivpal;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Hi+there!+👋+I'm+Shivpal)](https://git.io/typing-svg)
 
 
 - 👋 Hi, I’m @shivpal
