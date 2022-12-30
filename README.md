@@ -10,8 +10,8 @@
 - 💞️ I’m looking to collaborate on providing & impoving solutions and advancements in technologies.
 - 📫 Reach me at shivpalwaiml@gmail.com
 
-
-counting of visitors to this page in this section started from Dec 30, 2022
+</br>
+Counting of visitors to this page in this section started from Dec 30, 2022
 <a href="https://info.flagcounter.com/VyrE"><img src="https://s01.flagcounter.com/count2/VyrE/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_9/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 <!---
