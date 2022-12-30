@@ -1,5 +1,7 @@
 ![](assets/Bottom_up.svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋+I’m +Shivpal;Second+line+of+text)](https://git.io/typing-svg)
+
 
 - 👋 Hi, I’m @shivpal
 - 👀 I’m Working as a | Data Scientist | Machine Learning Engineer |
@@ -7,6 +9,7 @@
 - 🌱 I’m currently learning Natural Lannguage Processing | Deep Learning | MLops/AIops
 - 💞️ I’m looking to collaborate on providing & impoving solutions and advancements in technologies.
 - 📫 Reach me at shivpalwaiml@gmail.com
+
 
 <!---
 shivpalSW/shivpalSW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
