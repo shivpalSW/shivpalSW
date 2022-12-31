@@ -48,8 +48,8 @@
   
   <h4 align="left">Frameworks:</h4>
 <p align="left"> 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200210175202/django-basics.png" alt="django" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200210175202/django-basics.png" alt="django" width="40" height="40"/> </a>
  <a href="https://streamlit.io/" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" width="40" height="40"/> </a>
   
  <h4 align="left">Clouds:</h4>
@@ -65,12 +65,20 @@
 <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>  
 <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a>
   
-<h4 align="left">Softwares:</h4>
+<h4 align="left">Version Control Tool:</h4>
 <p align="left"> 
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
+ <h4 align="left">API Testing:</h4>
+<p align="left"> 
  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+
+  <h4 align="left">Softwares:</h4>
+<p align="left"> 
  <a href="https://www.anaconda.com/" target="_blank"> <img src="https://cdn.ourcodeworld.com/public-media/articles/anaconda-python-6185c003c98a3.png" alt="anaconda" width="40" height="40"/> </a>
-  
+
+
  <h4 align="left">Web Development:</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
