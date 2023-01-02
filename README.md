@@ -92,7 +92,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpalSW&theme=blue-green&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-## [![Profile views](https://visitor-badge.glitch.me/badge?page_id=shivpalSW.shivpalSW)](https://github.com/shivpalSW)
+
+[![Profile views](https://visitor-badge.glitch.me/badge?page_id=shivpalSW.shivpalSW)](https://github.com/shivpalSW)
 
 <!---
 shivpalSW/shivpalSW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
