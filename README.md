@@ -91,6 +91,9 @@
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>       </a>   </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>       </p>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpalSW)](https://github.com/shivpalSW/github-readme-stats)
+
+
 </br>
 Counting of visitors to this page in this section started from Dec 30, 2022
 <a href="https://info.flagcounter.com/nFCE"><img src="https://s01.flagcounter.com/count2/nFCE/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
