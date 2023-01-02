@@ -92,9 +92,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpalSW&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-</br>
-Counting of visitors to this page in this section started from Dec 30, 2022
-<a href="https://info.flagcounter.com/nFCE"><img src="https://s01.flagcounter.com/count2/nFCE/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+## [![Profile views](https://visitor-badge.glitch.me/badge?page_id=shivpalSW.shivpalSW)](https://github.com/shivpalSW)
 
 <!---
 shivpalSW/shivpalSW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
