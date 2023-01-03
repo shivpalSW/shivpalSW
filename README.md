@@ -9,7 +9,7 @@
 - 👋 Hi, I’m @shivpal
 - 👀 Extensive Working experience as a | Data Scientist | Machine Learning Engineer |
 - 🌱 I’m Working on Data Science | Machine Learning | Natural Language Processing | Deep Learning AI fields.
-- 🌱 I’m currently learning Natural Lannguage Processing | Deep Learning | MLops/AIops
+- 🌱 I’m currently learning Natural Lannguage Processing(NLP) | Deep Learning | MLops/AIops
 - 💞️ I’m looking to collaborate on providing & impoving solutions and advancements in technologies.
 - 📫 Reach me at shivpalwaiml@gmail.com
 - 🌍 Please vist my <a href="https://shivpalsw.github.io/sw-portfolio/">website</a>.</br>
