@@ -1,5 +1,7 @@
 ![](assets/Bottom_up.svg)
 
+https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=%22Welcome%20to%20My%20Profile!%22
+
 ![Profile views](https://gpvc.arturio.dev/shivpalSW)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B+I+am+Shivpal;Welcome+to+My+Profile!)](https://git.io/typing-svg)
