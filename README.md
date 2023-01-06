@@ -1,4 +1,5 @@
-![](assets/Bottom_up.svg)
+
+<!-- ![](assets/Bottom_up.svg) -->
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Welcome%20to%20My%20Profile!&descAlignY=60)
 
