@@ -1,6 +1,6 @@
 ![](assets/Bottom_up.svg)
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Welcome%20to%20My%20Profile!)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Welcome%20to%20My%20Profile!&fontAlignY=50)
 
 ![Profile views](https://gpvc.arturio.dev/shivpalSW)
 
