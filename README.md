@@ -3,7 +3,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Welcome%20to%20my%20profile!)
 
-![Profile views](https://gpvc.arturio.dev/shivpalSW)
+![Profile views](https://gpvc.arturio.dev/shivpalSW) ## [![Profile views](https://visitor-badge.glitch.me/badge?page_id=shivpalSW.shivpalSW)](https://github.com/shivpalSW)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B+I+am+Shivpal;Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
@@ -96,7 +96,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpalSW&theme=blue-green&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-## [![Profile views](https://visitor-badge.glitch.me/badge?page_id=shivpalSW.shivpalSW)](https://github.com/shivpalSW)
+
 
 <!---
 shivpalSW/shivpalSW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
