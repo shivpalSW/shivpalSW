@@ -3,7 +3,8 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Welcome%20to%20my%20profile!)
 
-![Profile views](https://gpvc.arturio.dev/shivpalSW)  [![Profile views](https://visitor-badge.glitch.me/badge?page_id=shivpalSW.shivpalSW)](https://github.com/shivpalSW)
+<!-- !  ![Profile views](https://gpvc.arturio.dev/shivpalSW)  -->
+[![Profile views](https://visitor-badge.glitch.me/badge?page_id=shivpalSW.shivpalSW)](https://github.com/shivpalSW)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B+I+am+Shivpal;Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
