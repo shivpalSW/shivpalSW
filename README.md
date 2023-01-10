@@ -17,7 +17,7 @@
 - 💞️ I’m looking to collaborate on providing & impoving solutions and advancements in technologies.
 - 📫 Reach me at shivpalwaiml@gmail.com
 - 🌍 Please vist my <a href="https://shivpalsw.github.io/sw-portfolio/">website</a>.</br>
-- 📝 See my <a href="https://drive.google.com/file/d/1nOL1FAqMvxrvPE-GG9MWOzazL268V/view?usp=sha">Resume</a> to get more professional info.</br></h6>
+ <!--  - 📝 See my <a href="https://drive.google.com/file/d/1nOL1FAqMvxrvPE-GG9MWOzazL268V/view?usp=sha">Resume</a> to get more professional info.</br></h6>   -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Tools+and+technologies+I+worked+on..)](https://git.io/typing-svg)
 
