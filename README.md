@@ -97,6 +97,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpalSW&theme=blue-green&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivpalSW&show_icons=true&theme=blue-green)  
 
 <!--  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivpalSW&theme=github_dark)   -->
 
