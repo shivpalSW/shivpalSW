@@ -103,6 +103,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/shivpalSW)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivpalSW&theme=blue-green)  
 <!---
 shivpalSW/shivpalSW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
