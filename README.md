@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B+I+am+Shivpal;Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
-<img align="right"  height="200px" src="assets\AI.gif">
+<img align="right"  height="200px" src="assets\UI_Inspirationgif">
 
 - 👋 Hi, I’m @shivpal
 - 👀 Extensive Working experience as a | Data Scientist | Machine Learning Engineer |
