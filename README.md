@@ -105,7 +105,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivpalSW&show_icons=true&theme=blue-green) 
 
-[![shivpal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shivpalSW)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 shivpalSW/shivpalSW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
