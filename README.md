@@ -99,12 +99,13 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivpalSW&theme=blue-green)  
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivpalSW&theme=github_dark) -->
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivpalSW&theme=github_dark) -->
 
 ![GitHub metrics](https://metrics.lecoq.io/shivpalSW)  
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivpalSW&show_icons=true&theme=blue-green)
 
+<!--      -->
 
 <!---
 shivpalSW/shivpalSW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
