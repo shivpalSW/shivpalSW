@@ -1,7 +1,7 @@
 
-<!-- ![](assets/Bottom_up.svg) -->
+ ![](assets/Bottom_up.svg) -->
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Welcome%20to%20my%20profile!)
+<!--![waving](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Welcome%20to%20my%20profile!) -->
 
 ![Profile views](https://gpvc.arturio.dev/shivpalSW) [![Profile views](https://visitor-badge.glitch.me/badge?page_id=shivpalSW.shivpalSW)](https://github.com/shivpalSW)
 
