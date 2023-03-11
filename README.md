@@ -95,7 +95,8 @@
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>       </a>   </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>       </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpalSW&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
+ 
+ <!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpalSW&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)    -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivpalSW&theme=blue-green)
 
