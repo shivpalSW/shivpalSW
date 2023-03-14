@@ -96,7 +96,7 @@
 
 
  
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpalSW&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpalSW&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
 
  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivpalSW&theme=blue-green)
 
@@ -104,7 +104,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/shivpalSW) 
  
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivpalSW&show_icons=true&theme=blue-green)   -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivpalSW&show_icons=true&theme=blue-green)
  
 <!--      -->
 <!---
