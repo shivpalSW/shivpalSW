@@ -98,7 +98,7 @@
  
  <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpalSW&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!--  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivpalSW&theme=blue-green) -->
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivpalSW&theme=blue-green) 
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivpalSW&theme=github_dark)   -->
 
