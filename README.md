@@ -101,7 +101,7 @@
 
  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivpalSW&theme=blue-green) 
 
-<!--   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivpalSW&theme=github_dark)  -->
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivpalSW&theme=github_dark)  
 
 <!--  ![GitHub metrics](https://metrics.lecoq.io/shivpalSW) -->
 
