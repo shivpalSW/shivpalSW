@@ -1,7 +1,7 @@
 
  <!-- ![](assets/Bottom_up.svg) -->
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Welcome%20to%20my%20profile!) 
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Welcome%20to%20my%20profile!) 
 
 ![Profile views](https://gpvc.arturio.dev/shivpalSW)![Profile views](https://visitor-badge.glitch.me/badge?page_id=shivpalSW.shivpalSW)
  <!--(https://github.com/shivpalSW) -->
@@ -98,7 +98,7 @@
  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpalSW&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivpalSW&theme=blue-green) 
+ <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivpalSW&theme=blue-green) -->
 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivpalSW&theme=github_dark) 
 
