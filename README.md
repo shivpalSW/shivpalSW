@@ -5,8 +5,7 @@
 
 <p align=" "> <img src="https://komarev.com/ghpvc/?username=shivpalSW&label=Profile%20views&color=0e75b6&style=flat" alt="Git Stats" /> </p>
 
-![Profile views](https://gpvc.arturio.dev/shivpalSW)
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=shivpalSW.shivpalSW)
+![Profile views](https://gpvc.arturio.dev/shivpalSW) ![Profile views](https://visitor-badge.glitch.me/badge?page_id=shivpalSW.shivpalSW)
 
 
 <!-- https://github.com/shivpalSW) -->
