@@ -108,6 +108,8 @@
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivpalSW&show_icons=true&theme=blue-green) 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
  ![snake gif](https://github.com/shivpalSW/shivpalSW/blob/main/assets/github-contribution-grid-snake.svg)
  
