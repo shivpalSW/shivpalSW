@@ -109,9 +109,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivpalSW&show_icons=true&theme=blue-green) 
 
 
-### Watch my dynamic contribution graph
-
-![Shiv snake gif](https://github.com/shivpalSW/shivpalSW/blob/main/assets/github-contribution-grid-snake.gif)
  
 <!--      -->
 <!--      -->
