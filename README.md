@@ -13,7 +13,7 @@
 <img align="right"  height="200px" src="assets\GIF.gif">
 
 - 👋 Hi, I’m @shivpal
-- 👀 Extensive Working experience as a | Data Scientist | Machine Learning Engineer |
+- 👀 Extensive Working experience as a | Data Scientist | Machine Learning Engineer | Generative AI Developer
 - 🌱 I’m Working on Data Science | Machine Learning | Natural Language Processing | Deep Learning | Generative AI fields.
 - 🌱 I’m currently learning Natural Lannguage Processing (NLP) | Deep Learning | MLops/AIops | Generative AI
 - 💞️ I’m looking to collaborate on providing & impoving solutions and advancements in technologies.
