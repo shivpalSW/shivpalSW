@@ -5,16 +5,16 @@
 
 <p align=" "> <img src="https://komarev.com/ghpvc/?username=shivpalSW&label=Profile%20views&color=0e75b6&style=flat" alt="Git Stats" /> </p>
 
-<-- ![Profile views](https://gpvc.arturio.dev/shivpalSW) ![Profile views](https://visitor-badge.glitch.me/badge?page_id=shivpalSW.shivpalSW) -->
+<!-- ![Profile views](https://gpvc.arturio.dev/shivpalSW) ![Profile views](https://visitor-badge.glitch.me/badge?page_id=shivpalSW.shivpalSW) -->
 <!-- https://github.com/shivpalSW) -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B+I+am+Shivpal;Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 <img align="right"  height="200px" src="assets\GIF.gif">
 
-- 👋 Hi, I’m @shivpal
+- 👋 Hi, I’m @shiv
 - 👀 Extensive Working experience as a | Data Scientist | Machine Learning Engineer | Generative AI Developer
-- 🌱 I’m Working on Data Science | Machine Learning | Natural Language Processing | Deep Learning | Generative AI fields.
+- 🌱 I’m Working on Data Science | Machine Learning | Natural Language Processing | Deep Learning | Generative AI | AI Agents fields.
 - 🌱 I’m currently learning Natural Lannguage Processing (NLP) | Deep Learning | MLops/AIops | Generative AI
 - 💞️ I’m looking to collaborate on providing & impoving solutions and advancements in technologies.
 - 📫 Reach me at shivpalwaiml@gmail.com
